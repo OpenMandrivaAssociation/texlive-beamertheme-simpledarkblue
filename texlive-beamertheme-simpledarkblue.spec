@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-simpledarkblue
 Version:	60061
-Release:	1
+Release:	2
 Summary:	Template for a simple presentation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-simpledarkblue
