@@ -3,7 +3,7 @@ Version:	60061
 Release:	2
 Summary:	Template for a simple presentation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-simpledarkblue
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-simpledarkblue
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-simpledarkblue.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-simpledarkblue.doc.r%{version}.tar.xz
